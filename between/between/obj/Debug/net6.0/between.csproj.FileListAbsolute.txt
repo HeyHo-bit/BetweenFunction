@@ -1,0 +1,14 @@
+C:\Users\klsadmin\source\repos\between\between\bin\Debug\net6.0\between.exe
+C:\Users\klsadmin\source\repos\between\between\bin\Debug\net6.0\between.deps.json
+C:\Users\klsadmin\source\repos\between\between\bin\Debug\net6.0\between.runtimeconfig.json
+C:\Users\klsadmin\source\repos\between\between\bin\Debug\net6.0\between.dll
+C:\Users\klsadmin\source\repos\between\between\bin\Debug\net6.0\between.pdb
+C:\Users\klsadmin\source\repos\between\between\obj\Debug\net6.0\between.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klsadmin\source\repos\between\between\obj\Debug\net6.0\between.AssemblyInfoInputs.cache
+C:\Users\klsadmin\source\repos\between\between\obj\Debug\net6.0\between.AssemblyInfo.cs
+C:\Users\klsadmin\source\repos\between\between\obj\Debug\net6.0\between.csproj.CoreCompileInputs.cache
+C:\Users\klsadmin\source\repos\between\between\obj\Debug\net6.0\between.dll
+C:\Users\klsadmin\source\repos\between\between\obj\Debug\net6.0\refint\between.dll
+C:\Users\klsadmin\source\repos\between\between\obj\Debug\net6.0\between.pdb
+C:\Users\klsadmin\source\repos\between\between\obj\Debug\net6.0\between.genruntimeconfig.cache
+C:\Users\klsadmin\source\repos\between\between\obj\Debug\net6.0\ref\between.dll

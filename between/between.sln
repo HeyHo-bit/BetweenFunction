@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "between", "between\between.csproj", "{7DD67C09-9792-4430-8940-E3BA0447F7F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DD67C09-9792-4430-8940-E3BA0447F7F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD67C09-9792-4430-8940-E3BA0447F7F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD67C09-9792-4430-8940-E3BA0447F7F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD67C09-9792-4430-8940-E3BA0447F7F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B41C6B3-4AFB-46EA-9E6E-41D7D74C96CB}
+	EndGlobalSection
+EndGlobal
